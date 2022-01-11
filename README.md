@@ -1,1 +1,1 @@
-This project shows a pair of days representing the best day to buy and the best day to sell from a given array of stock prices.
+This program shows a pair of days representing the best day to buy and the best day to sell from a given array of stock prices.
